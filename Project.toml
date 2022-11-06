@@ -1,0 +1,4 @@
+name = "quantisation_gpu"
+uuid = "b9d08a9a-74c2-40e2-acf5-c6180d66239c"
+authors = ["Ashwani Rathee <ab669522@gmail.com>"]
+version = "0.1.0"
