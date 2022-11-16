@@ -1,8 +1,7 @@
-name = "quantisation_gpu"
-uuid = "b9d08a9a-74c2-40e2-acf5-c6180d66239c"
+name = "hpc"
+uuid = "182d84d7-184b-4827-82d5-6159ae805a42"
 authors = ["Ashwani Rathee <ab669522@gmail.com>"]
 version = "0.1.0"
 
 [deps]
 CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
-KernelAbstractions = "63c18a36-062a-441e-b654-da1e3ab1ce7c"
